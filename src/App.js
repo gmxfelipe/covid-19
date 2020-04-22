@@ -1,6 +1,6 @@
 import React from 'react'
 import Cards from './components/Cards/Index';
-import Chart from './components/Chart/index';
+import Chart from './components/Chart/Index';
 import CountryPicker from './components/CountryPicker/Index';
 import styles from './Global.module.css'
 import coronaImage from '../src/img/image.png';
@@ -37,7 +37,14 @@ class App extends React.Component {
                 <Cards data={data} />
                 <CountryPicker handleCountryChange={this.handleCountryChange} />
                 <Chart data={data} country={country} />
+                <div className="dev">
+                    Desenvolvedor:
+                    <a href="https://www.linkedin.com/in/felipe-augusto-gomes-246a5919b/" target="_blank">
+                     Felipe Augusto G.
+                    </a>
+                </div>
             </div>
+            
         )
     }
 }
