@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
 import Cards from './components/Cards/Index';
-import Chart from './components/Chart/Index';
+import Chart from './components/Chart/index';
 import CountryPicker from './components/CountryPicker/Index';
 
-import styles from './global.css'
+import styles from './Global.module.css'
 
 import { fetchData } from './api/index';
 
