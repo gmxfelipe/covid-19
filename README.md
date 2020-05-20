@@ -1,2 +1,2 @@
-<p>Link do app: <br>
+<p>Link do App: <br>
 <p>https://covid-19-3781d.web.app/ 
