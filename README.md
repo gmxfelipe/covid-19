@@ -1,3 +1,7 @@
 
-<p>Link do App:<br>
+<p>Link do App: <br>
 <p>https://covid-19-3781d.web.app/ 
+  
+<h4 align="center">
+  <em>&lt;/&gt;</em> by <a href="https://github.com/gmxfelipe" target="_blank">Felipe Augusto Gomes</a>
+</h4>
