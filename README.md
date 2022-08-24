@@ -1,6 +1,6 @@
 
 <p align="center"><img src="src/img/image.png"></p>
-<h2>Confira</h2><br>
+<h2>Confira</h2>
 <p>https://covid-19-3781d.web.app/ </p>
   
 <h4 align="center">
