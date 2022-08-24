@@ -1,5 +1,5 @@
 
-<p align="center"><img src="/static/media/image.d7265326.png"></p>
+<p align="center"><img src="covid-19/src/img/image.d7265326.png"></p>
 <p>Link do App: <br>
 <p>https://covid-19-3781d.web.app/ 
   
