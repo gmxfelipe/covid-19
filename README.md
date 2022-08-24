@@ -1,6 +1,6 @@
 
 <p align="center"><img src="src/img/image.png"></p>
-<p>Link do App: <br>
+<p>- Confira:<br>
 <p>https://covid-19-3781d.web.app/ 
   
 <h4 align="center">
